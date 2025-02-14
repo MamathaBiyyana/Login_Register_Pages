@@ -1,5 +1,5 @@
 body{
-    background:url("Amazon.jpg");
+    background-image:url("Amazon.jpg");
     background-image:cover;
 }
 .amazon{
