@@ -1,0 +1,62 @@
+body
+{
+background-image:url("C:/Users/91938/HTML/color1.jpg");
+background-size:cover;
+background-position: 0%;
+text-align: center;
+}
+h1
+{
+padding-top:200px;
+font-style:italic;
+font-size:50px;
+text-align:top;
+margin:0px;
+text-decoration:underline;
+text-decoration-color:red;
+color:rgb(99, 99, 185);
+
+}
+
+nav ul li
+{
+display:inline-block;
+list-style:none;
+padding:30px;
+display:inline;
+margin-left: 100px;
+
+
+}
+.pics
+{
+image-position:top;
+height:40%;
+position:absolute;
+top:0;
+right:0px;
+width=50%;
+
+}
+.logo{
+    font-size: 80px;
+    margin-top: 30px;
+    margin-left: 14px;
+    text-align: center;
+    text-overflow:ellipsis;
+    text-decoration-style: dotted;
+    text-overflow:clip;
+
+}
+.log-form{
+    text-align: center;
+    display: inline;
+
+}
+.helo{
+    text-align: center;
+    margin-left: 650px;
+    margin-top: 40px;
+}
+
+
